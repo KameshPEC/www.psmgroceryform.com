@@ -1,0 +1,14 @@
+h3{
+    background-color: orange;
+    border: 100cm;
+    margin: 0;
+}
+.container{
+    background-color: orange;
+    display: flex;
+    gap: 20PX;
+}
+footer{
+    background-color: orange;
+    color: black;
+}
